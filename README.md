@@ -10,7 +10,8 @@ This repository contains projects and scripts that I created while learning **Py
 
 ## Projects and Scripts:
 - Python: tic-tac-toe.py
-- SQL: Data Exploration Framework Report + titanic.db
+- SQL Data Analysis: Data Exploration Framework Report (_Justification for Analysis_) + titanic.db 
+- Database Design: Project2eCommerse.db + SQ2ER.pdf (_Entity Relationship Diagram_)
 
 ## Acknowledgements:
 - **TalentLabs**

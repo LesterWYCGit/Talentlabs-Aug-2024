@@ -18,7 +18,7 @@ This repository contains projects, files, scripts and any other documentation fo
 - Data Analysis w Google Universal Analytics Demo Data:
     Documents: Analytics master View Location 2021. csv + Dashboard_1.PNG
     Objective: The report of interest is the Location report for the United States of America for the whole of 2021 and make a dashboard to showcase your analysis
-Link To dashboard <https://public.tableau.com/views/GoogleAnalyticsUnitedstates2021VisualizationbyLesterWeeYiCheng/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link>
+Link to [dashboard]<https://public.tableau.com/views/GoogleAnalyticsUnitedstates2021VisualizationbyLesterWeeYiCheng/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link>
 ## Acknowledgements:
 - **TalentLabs**
 - **Khazanah Nasional Berhad**

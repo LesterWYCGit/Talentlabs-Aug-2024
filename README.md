@@ -12,10 +12,6 @@ This repository contains projects and scripts that I created while learning **Py
 - Python: tic-tac-toe.py
 - SQL: Data Exploration Framework Report + titanic.db
 
-## Skills Gained:
-- Python programming fundamentals.
-- Practical problem-solving with Python.
-
 ## Acknowledgements:
 - **TalentLabs**
 - **Khazanah Nasional Berhad**

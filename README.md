@@ -9,7 +9,7 @@ This repository contains projects and scripts that I created while learning **Py
 - **Financial Concepts**: Real-world applications of Python in FinTech.
 
 ## Projects and Scripts:
-- Python: 
+- Python: tic-tac-toe.py
 - SQL: Data Exploration Framework Report + titanic.db
 
 ## Skills Gained:

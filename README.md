@@ -1,6 +1,6 @@
 # Fundamentals of FinTech
 
-This repository contains projects and scripts that I created while learning **Python** & **SQL** along with **Data Visualization** through the **TalentLabs Course on Fundamentals of FinTech**. This course was sponsored by **Khazanah Nasional Berhad**, a sovereign wealth fund of the Malaysian government.
+This repository contains projects and scripts that I created while learning **Python** & **SQL** along with **Data Visualization** through the **TalentLabs Course on Fundamentals of FinTech**. This course was sponsored by **Khazanah Nasional Berhad**.
 
 ## About the Course:
 - **Python Basics**: Variables, data types, loops, and functions.

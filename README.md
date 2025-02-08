@@ -7,9 +7,9 @@ This repository contains projects, files, scripts and any other documentation fo
 - [Certificate of Completion](https://www.talentlabs.org/certificate/urxKkxn7SKSYi9u48GR6eQ)
 - [Course Information](https://www.talentlabs.org/courses/fif)
 ---
-- **Python Basics**: Variables, data types, loops, and functions.
-- **Data Structures**: Lists, dictionaries, sets, and tuples.
-- **Financial Concepts**: Real-world applications of Python in FinTech.
+- **Python Basics**: Understanding the foundational aspects of Python programming, including variables, data types, loops, and functions
+- **Data Structures**: Importance of SQL in database management, comprehension of Introductory SQL syntax and commands
+- **Financial Concepts**: Fundamental concepts of blockchain and Web3 technologies, Discussion of their impacts on digital finance and beyond. 
 
 ## Projects and Scripts:
 - Python: tic-tac-toe.py

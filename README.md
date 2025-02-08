@@ -3,10 +3,10 @@
 This repository contains projects, files, scripts and any other documentation formats that I created while learning **Python** & **SQL** along with **Data Visualization** through the **TalentLabs Course on Fundamentals of FinTech**. This course was sponsored by **Khazanah Nasional Berhad**.
 
 ## About the Course:
-|___|___|
-[Certificate of Completion](https://www.talentlabs.org/certificate/urxKkxn7SKSYi9u48GR6eQ)
-[Course Information](https://www.talentlabs.org/courses/fif)
-
+---
+- [Certificate of Completion](https://www.talentlabs.org/certificate/urxKkxn7SKSYi9u48GR6eQ)
+- [Course Information](https://www.talentlabs.org/courses/fif)
+---
 - **Python Basics**: Variables, data types, loops, and functions.
 - **Data Structures**: Lists, dictionaries, sets, and tuples.
 - **Financial Concepts**: Real-world applications of Python in FinTech.
